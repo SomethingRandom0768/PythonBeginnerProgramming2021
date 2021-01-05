@@ -1,4 +1,4 @@
-guest_list = ["shiskebab", "SomethingDeliberate", "SomethingRandom"]
+guest_list = ["shishkebab", "SomethingDeliberate", "SomethingRandom"]
 # I usually avoid using real life references when it comes to the programs
 
 message1 = f"Hi {guest_list[0]}, would you like to come for dinner tonight?"
