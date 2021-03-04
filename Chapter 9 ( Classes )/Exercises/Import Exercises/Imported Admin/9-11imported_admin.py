@@ -1,4 +1,3 @@
-
 from admin import User, Admin
 
 AdminThree = Admin("The", "Cat", 41, "HeIsn'tHere321")
