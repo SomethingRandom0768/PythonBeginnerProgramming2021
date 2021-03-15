@@ -6,7 +6,7 @@ class Die:
         self.sides = sides
 
     def roll_die(self):
-        randomNumber = random.randint(1, 6)
+        randomNumber = random.randint(1, self.sides)
         print(randomNumber, end=' ')
 
 firstDice = Die()
