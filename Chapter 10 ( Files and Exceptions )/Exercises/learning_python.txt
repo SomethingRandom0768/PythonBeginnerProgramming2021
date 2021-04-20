@@ -1,6 +1,0 @@
-So far I've learned about:
-In Python you use : instead of ; like in Java
-In Python there are lists and dictionaries as well as tuples and sets
-In Python you can also sort, reverse, and even temporarily sort lists
-In Python you can also create for and while loops
-In Python you can get user input using input() which is a lot easier than getting java.util.scanner in Java
