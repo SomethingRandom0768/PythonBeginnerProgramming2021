@@ -1,0 +1,19 @@
+# Project exclude paths
+/venv/
+
+Chapter 10 ( Files and Exceptions )/Examples/alice.py
+Chapter 10 ( Files and Exceptions )/Examples/alice.txt
+Chapter 10 ( Files and Exceptions )/Examples/division_calculator.py
+Chapter 10 ( Files and Exceptions )/Examples/file_reader.py
+Chapter 10 ( Files and Exceptions )/Examples/number_writer.py
+Chapter 10 ( Files and Exceptions )/Examples/numbers.json
+Chapter 10 ( Files and Exceptions )/Examples/pi_string.py
+Chapter 10 ( Files and Exceptions )/Examples/word_count.py
+Chapter 10 ( Files and Exceptions )/Examples/write_message.py
+Chapter 10 ( Files and Exceptions )/Examples/text_files/pi_digits.txt
+Chapter 10 ( Files and Exceptions )/Examples/text_files/pi_million_digits
+Chapter 10 ( Files and Exceptions )/Examples/text_files/programming
+timertesting.py
+math.py
+.vscode/settings.json
+.vscode/launch.json
