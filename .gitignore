@@ -1,6 +1,6 @@
 # Project exclude paths
 /venv/
-
+node_modules/
 Chapter 10 ( Files and Exceptions )/Examples/alice.py
 Chapter 10 ( Files and Exceptions )/Examples/alice.txt
 Chapter 10 ( Files and Exceptions )/Examples/division_calculator.py
@@ -13,10 +13,10 @@ Chapter 10 ( Files and Exceptions )/Examples/write_message.py
 Chapter 10 ( Files and Exceptions )/Examples/text_files/pi_digits.txt
 Chapter 10 ( Files and Exceptions )/Examples/text_files/pi_million_digits
 Chapter 10 ( Files and Exceptions )/Examples/text_files/programming
+Chapter 10 ( Files and Exceptions )/Examples/remember_me.py
+Chapter 10 ( Files and Exceptions )\Examples\number_reader.py
+Chapter 10 ( Files and Exceptions )\Examples\username.json
 timertesting.py
 math.py
 .vscode/settings.json
 .vscode/launch.json
-Chapter 10 ( Files and Exceptions )/Examples/number_reader.py
-Chapter 10 ( Files and Exceptions )/Examples/remember_me.py
-Chapter 10 ( Files and Exceptions )/Examples/username.json
