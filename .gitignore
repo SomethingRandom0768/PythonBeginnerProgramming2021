@@ -1,22 +1,62 @@
 # Project exclude paths
 /venv/
 node_modules/
-Chapter 10 ( Files and Exceptions )/Examples/alice.py
-Chapter 10 ( Files and Exceptions )/Examples/alice.txt
-Chapter 10 ( Files and Exceptions )/Examples/division_calculator.py
-Chapter 10 ( Files and Exceptions )/Examples/file_reader.py
-Chapter 10 ( Files and Exceptions )/Examples/number_writer.py
-Chapter 10 ( Files and Exceptions )/Examples/numbers.json
-Chapter 10 ( Files and Exceptions )/Examples/pi_string.py
-Chapter 10 ( Files and Exceptions )/Examples/word_count.py
-Chapter 10 ( Files and Exceptions )/Examples/write_message.py
-Chapter 10 ( Files and Exceptions )/Examples/text_files/pi_digits.txt
-Chapter 10 ( Files and Exceptions )/Examples/text_files/pi_million_digits
-Chapter 10 ( Files and Exceptions )/Examples/text_files/programming
-Chapter 10 ( Files and Exceptions )/Examples/remember_me.py
-Chapter 10 ( Files and Exceptions )\Examples\number_reader.py
-Chapter 10 ( Files and Exceptions )\Examples\username.json
 timertesting.py
 math.py
 .vscode/settings.json
 .vscode/launch.json
+Chapter 2 ( Variables and Simple Data Types )/Examples/apostrophe.py
+Chapter 2 ( Variables and Simple Data Types )/Examples/comments.py
+Chapter 2 ( Variables and Simple Data Types )/Examples/full_name.py
+Chapter 2 ( Variables and Simple Data Types )/Examples/name.py
+Chapter 3 ( Introducing Lists )/Examples/bicycles.py
+Chapter 3 ( Introducing Lists )/Examples/cars.py
+Chapter 3 ( Introducing Lists )/Examples/motorcycles.py
+Chapter 4 ( Working With Lists )/Examples/dimensions.py
+Chapter 4 ( Working With Lists )/Examples/even_numbers.py
+Chapter 4 ( Working With Lists )/Examples/first_numbers.py
+Chapter 4 ( Working With Lists )/Examples/foods.py
+Chapter 4 ( Working With Lists )/Examples/magicians.py
+Chapter 4 ( Working With Lists )/Examples/players.py
+Chapter 4 ( Working With Lists )/Examples/squares.py
+Chapter 5 ( If Statements )/Examples/amusement_park.py
+Chapter 5 ( If Statements )/Examples/banned_users.py
+Chapter 5 ( If Statements )/Examples/magic_number.py
+Chapter 5 ( If Statements )/Examples/toppings_2.py
+Chapter 5 ( If Statements )/Examples/toppings_3.py
+Chapter 5 ( If Statements )/Examples/toppings.py
+Chapter 5 ( If Statements )/Examples/voting.py
+Chapter 6 ( Dictionaries )/Examples/alien_no_points.py
+Chapter 6 ( Dictionaries )/Examples/alien.py
+Chapter 6 ( Dictionaries )/Examples/aliens.py
+Chapter 6 ( Dictionaries )/Examples/favorite_languages.py
+Chapter 6 ( Dictionaries )/Examples/many_users.py
+Chapter 6 ( Dictionaries )/Examples/pizza.py
+Chapter 6 ( Dictionaries )/Examples/user.py
+Chapter 7  (  User inputs and while Loops )/Examples/cities.py
+Chapter 7  (  User inputs and while Loops )/Examples/confirmed_users.py
+Chapter 7  (  User inputs and while Loops )/Examples/counting.py
+Chapter 7  (  User inputs and while Loops )/Examples/even_or_odd.py
+Chapter 7  (  User inputs and while Loops )/Examples/greeter.py
+Chapter 7  (  User inputs and while Loops )/Examples/infinite_loop.py
+Chapter 7  (  User inputs and while Loops )/Examples/mountain_poll.py
+Chapter 7  (  User inputs and while Loops )/Examples/parrot_2.py
+Chapter 7  (  User inputs and while Loops )/Examples/parrot.py
+Chapter 7  (  User inputs and while Loops )/Examples/pets.py
+Chapter 7  (  User inputs and while Loops )/Examples/rollercoaster.py
+Chapter 8 ( Functions )/Examples/formatted_name.py
+Chapter 8 ( Functions )/Examples/greet_users.py
+Chapter 8 ( Functions )/Examples/greeter.py
+Chapter 8 ( Functions )/Examples/greeter2.py
+Chapter 8 ( Functions )/Examples/making_pizzas.py
+Chapter 8 ( Functions )/Examples/person.py
+Chapter 8 ( Functions )/Examples/pets.py
+Chapter 8 ( Functions )/Examples/pizza.py
+Chapter 8 ( Functions )/Examples/user_profile.py
+Chapter 9 ( Classes )/Examples/car.py
+Chapter 9 ( Classes )/Examples/dog.py
+Chapter 9 ( Classes )/Examples/electric_car.py
+Chapter 9 ( Classes )/Examples/electric_car2.py
+Chapter 9 ( Classes )/Examples/my_car.py
+Chapter 9 ( Classes )/Examples/my_cars.py
+Chapter 9 ( Classes )/Examples/my_electric_car.py
