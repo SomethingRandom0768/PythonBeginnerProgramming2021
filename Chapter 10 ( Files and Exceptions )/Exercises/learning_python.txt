@@ -1,0 +1,3 @@
+In Python you can store data inside of tuples, dictionaries, and lists.
+In Python you can create functions to execute code over and over.
+In Python you can make video games using PyGame and data using Panda
